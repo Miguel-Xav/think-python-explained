@@ -3,9 +3,13 @@ A repository with .py files to show the solutions of Think Python 3rd Edition ex
 
 ## Navigation
 **[How it Works and who it's for](#how-it-works-and-who-its-for)**
+
 **[How to Read and Run](#how-to-read-and-run)**
+
 **[Structure](#structure)**
+
 **[Special Thanks!](#special-thanks)**
+
 
 ## How it works and who it's for
 On this repository you can see each exercise solved by me, with different methods, on the time i've read this book.
