@@ -30,8 +30,9 @@ The use of `.py` files instead of `.ipynb` like the most repositories with the s
 `If:` you're just to check out an exercise solution or see a sketch, feel free to only use the preview on github.
 
 `Else:` you can download and run this `.py` files in any IDE that you want!
- 
- _If you are a beginner and don't know what an IDE is, check out [this video tutorial](https://www.youtube.com/watch?v=D2cwvpJSBX4)._
+
+> [!TIP]
+> _If you are a beginner and don't know what an IDE is, check out [this video tutorial](https://www.youtube.com/watch?v=D2cwvpJSBX4)._ 
 
 
 ## Structure
