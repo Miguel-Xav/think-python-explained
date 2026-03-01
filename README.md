@@ -13,6 +13,7 @@ The use of .py files, and not .ipynb like the most repositories with the solutio
 ## Structure
 It will have a folder for each chapter and a .py file for each exercise and a png file with a diagram explaining the logic created in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
+```text
 think-python-explained/
 │
 ├── [chapter-01](./chapter-01/)/
