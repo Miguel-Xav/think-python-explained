@@ -16,7 +16,7 @@ This project was developed and tested using **[Python 3.13.5](https://www.python
 ## How it works and who it's for
 On this repository you can see each exercise solved by me, with different methods, on the time i've read this book.
 
-I focused on explaining each line of code to help begginers, who are facing difficulties on the exercices, understand the programming logic of Python.
+I focused on explaining each line of code to help beginers, who are facing difficulties on the exercices, understand the programming logic of Python.
 
 The use of `.py` files instead of `.ipynb` like the most repositories with the solution, is to have an _easy visualization_ directly on GitHub _without the necessity of download anything_.
 
@@ -25,7 +25,7 @@ The use of `.py` files instead of `.ipynb` like the most repositories with the s
 ## How to Read and Run
 `If:` you're just to check out an exercise solution or see a sketch, feel free to only use the preview on github.
 
-`Else:` you can dowload and run this `.py` files in any IDE that you want!
+`Else:` you can download and run this `.py` files in any IDE that you want!
  
  _If you are a beginner and don't know what an IDE is, check out [this video tutorial](https://www.youtube.com/watch?v=D2cwvpJSBX4)._
 
