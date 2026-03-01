@@ -1,4 +1,4 @@
-## How many seconds exists in 42 minutos and 42 seconds?
+## How many seconds exists in 42 minutes and 42 seconds?
 # remembering that * multiplies and + adds
 print ((42*60)+42)    #first transform the 42 minutes in seconds, and add the 42 seconds. Print is the command to show the result in the terminal, this will be covered further in the book
 
