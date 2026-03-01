@@ -18,4 +18,4 @@ print (f"pace per mile: {minutes}min and {seconds}s")
 
 ## What is your avarege speed in miles per hour?
 speed_per_hour = 42/60 + 42 / 3600
-print (round(mile / speed_per_hour))
+print (round((10/mile) / speed_per_hour))
