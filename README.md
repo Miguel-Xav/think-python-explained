@@ -10,6 +10,8 @@ A repository with .py files to show the solutions of Think Python 3rd Edition ex
 
 **[Special Thanks!](#special-thanks)**
 
+## Tools Used
+This project was developed and tested using **[Python 3.13.5](https://www.python.org/downloads/release/python-3135/)** on **[Visual Studio Code](https://code.visualstudio.com/)**
 
 ## How it works and who it's for
 On this repository you can see each exercise solved by me, with different methods, on the time i've read this book.
