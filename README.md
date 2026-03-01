@@ -11,7 +11,16 @@ The use of .py files, and not .ipynb like the most repositories with the solutio
 **I'm not a professional and I did this project purely for fun, to document my progress with the book and help people who are struggling. I'm open to discussing any criticism and exploring different ways to solve the exercises.**
 
 ## Structure
-It will have a folder for each chapter and a .py file for each exercise and a png file with a diagram explaining the logic created in Excalidraw
+It will have a folder for each chapter and a .py file for each exercise and a png file with a diagram explaining the logic created in [Excalidraw](https://github.com/excalidraw/excalidraw).
+
+think-python-explained/
+│
+├── [chapter-01](./chapter-01/)/
+│   └── [exercise_01_5.py](./chapter-01/exercise_01_5.py)  # Basic arithmetic and print syntax
+│
+│
+├── .gitignore           
+└── [README.md](README.md)
 
 **Disclaimer**
 I'm not going to provide solutions for exercises focused on experimentation with the language.
