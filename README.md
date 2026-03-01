@@ -1,4 +1,8 @@
 # think-python-explained
+![Python Version](https://img.shields.io/badge/python-3.13.5-blue)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-68217A)
+
 A repository with .py files to show the solutions of Think Python 3rd Edition exercises with the explanation of each line, sketches and bonuses!
 
 ## Navigation
