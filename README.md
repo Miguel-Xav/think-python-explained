@@ -13,15 +13,10 @@ The use of .py files, and not .ipynb like the most repositories with the solutio
 ## Structure
 It will have a folder for each chapter and a .py file for each exercise and a png file with a diagram explaining the logic created in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
-```text
-think-python-explained/
-│
-├── [chapter-01](./chapter-01/)/
-│   └── [exercise_01_5.py](./chapter-01/exercise_01_5.py)  # Basic arithmetic and print syntax
-│
-│
-├── .gitignore           
-└── [README.md](README.md)
+* 📂 **[chapter-01](./chapter-01/)** - The Way of the Program
+    * 📄 [exercise_01_5.py](./chapter-01/exercise_01_5.py)
+* ⚙️ **[.gitignore](./.gitignore)**
+* 📖 **[README.md](./README.md)**
 
 **Disclaimer**
 I'm not going to provide solutions for exercises focused on experimentation with the language.
