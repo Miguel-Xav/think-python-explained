@@ -19,6 +19,7 @@ It will have a folder for each chapter and a .py file for each exercise and a pn
 * 📖 **[README.md](./README.md)**
 
 **Disclaimer**
+
 I'm not going to provide solutions for exercises focused on experimentation with the language.
 
 **I thank Allen B. Downey, on behalf of myself and the entire community, for writing this incredible book for those starting their Python journey.**
