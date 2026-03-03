@@ -36,19 +36,23 @@ The use of `.py` files instead of `.ipynb` like the most repositories with the s
 
 
 ## Structure
-It will have a folder for each chapter, a `.py` file for each exercise and a png file with a diagram explaining the logic. created in [Excalidraw](https://github.com/excalidraw/excalidraw), go check and support this cool project!
+It will have a folder for each chapter, a `.py` file for each exercise and a `.png` file with a diagram explaining the logic, created in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
 * 📂 **[chapter-01](./chapter-01/)** - Programming as a way of thinking
     * 📄 [exercise_01_5.py](./chapter-01/exercise_01_5.py)
 * 📂 **[chapter-02](./chapter-02/)** - Variables and Statements
     * 📄 [exercise_02_2.py](./chapter-02/exercise_02_2.py)
 * 📂 **[chapter-03](./chapter-03/)** - Functions
-    * 📄 [exercise_03_2.py](./chapter-03/exercise_03_2.py)    
-    * 📄 [exercise_03_3.py](./chapter-03/exercise_03_3.py)    
-    * 📄 [exercise_03_4.py](./chapter-03/exercise_03_4.py)    
-    * 📄 [exercise_03_5.py](./chapter-03/exercise_03_5.py)    
+    * 📄 [exercise_03_2.py](./chapter-03/exercise_03_2.py)
+        * 🎨 [sketch_03_2.png](./chapter-03/sketch_03_2.png)
+    * 📄 [exercise_03_3.py](./chapter-03/exercise_03_3.py)
+        * 🎨 [sketch_03_3.png](./chapter-03/sketch_03_3.png)
+    * 📄 [exercise_03_4.py](./chapter-03/exercise_03_4.py)
+        * 🎨 [sketch_03_4.png](./chapter-03/sketch_03_4.png)
+    * 📄 [exercise_03_5.py](./chapter-03/exercise_03_5.py)
+        * 🎨 [sketch_03_5.png](./chapter-03/sketch_03_5.png)
 
-* 📖 **[README.md](./README.md)**
+* 📄 **[README.md](./README.md)**
 
 **Disclaimer**
 
