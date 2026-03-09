@@ -10,4 +10,4 @@ def bottle_verse(n):
             pass #the pass command do literally nothing, we need it here because we can't have an empty else statement
 
 
-bottle_verse(10) #caution, this will print the whole song with the 99 verses, if you are testing and not want a spam, change the value of the parameter to a smaller number
+bottle_verse(99) #caution, this will print the whole song with the 99 verses, if you are testing and not want a spam, change the value of the parameter to a smaller number
