@@ -10,7 +10,7 @@ triangle("L", 5) #calling the function with the character "L" and 5 rows, you ca
 def triangle_center(str, n): #same basis as the previous function
     for i in range(n): #same loop as before
         space = n - i - 1 #now we are subtracting for each time the loops repeats the number of spaces needed to align the triangle to the center, we start with n spaces and for each iteration we subtract 1 space
-        print(" " * space + str * (i+1)) #same as before but now we are adding the spaces before the characters to align it to the center
+        print(" " * space + (str * (i)) + str+(str*i)) # same as before the exercise 2, but now we add str+(str*i) to make the other side (the triangle go 1,3,6...)
 
 
 triangle_center("L", 5)
