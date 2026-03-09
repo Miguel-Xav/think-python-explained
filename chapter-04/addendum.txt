@@ -1,0 +1,13 @@
+Important Note:
+Since this chapter uses visual tools (Jupyturtle), the code won't work as a standard Python script in every environment. It is designed to run inside a Jupyter Notebook.
+
+For beginners: I recommend using Jupyter Notebook to run these exercises.
+
+If you prefer VS Code: > 1. Install the Jupyter extension from the Extensions view (Ctrl+Shift+X).
+2. Make sure to install the jupyturtle library in your terminal using: pip install jupyturtle.
+
+Here is a helpful video on how to install Python libraries, and the official page for Jupyturtle (created by the Python legend, Luciano Ramalho):
+
+    Video Guide: https://www.youtube.com/watch?v=9Yc7lNbYNTw
+
+    Official Page: https://pypi.org/project/jupyturtle/
