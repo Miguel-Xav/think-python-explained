@@ -62,7 +62,7 @@ Este repositório documenta minha jornada pelo livro **Think Python (3rd Edition
         * 🎨 [exercise_03_4-sketch.png](./chapter-03/exercise_03_4-sketch.png)
     * 📄 [exercise_03_5.py](./chapter-03/exercise_03_5.py)
         * 🎨 [exercise_03_5-sketch.png](./chapter-03/exercise_03_5-sketch.png)
-* 📂 **[chapter-04](./chapter-04/)** - Case Study: Interface Design
+* 📂 **[chapter-04](./chapter-04/)** - Functions and Interfaces
     * 📄 [exercise_04_2.py](./chapter-04/exercise_04_2.py)
         * 🎨 [exercise_04_2-sketch.png](./chapter-04/exercise_04_2-sketch.png)
     * 📄 [exercise_04_3.py](./chapter-04/exercise_04_3.py)
