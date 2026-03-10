@@ -51,7 +51,7 @@ def rhombus(length): # same thing
     height = length
     make_draws(length, height, angle)
 
-def parallelogram(length): # we will fuse the rectangle with the rhombus to make a parallelogram
+def parallelogram2(length): # we will fuse the rectangle with the rhombus to make a parallelogram
     angle = 60 # angle of the rhombus
     length_double = length * 2 # to have the same length as the rectangle we need to double, if not it will be a rhombus
     height = length
@@ -69,6 +69,6 @@ perfect_rectangle(60)
 jump(80)
 rhombus(35)
 jump (70)
-parallelogram(35)
+parallelogram2(35)
 
-# i dint make an automatic function to calculate because some of the things are further in the book
+# i dint make an automatic function to calculate because some of the things needed to do this are further in the book

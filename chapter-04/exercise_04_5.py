@@ -16,7 +16,7 @@ def arc(s_len, s_ang, n_steps):
         left(s_ang)
 # now the arc is a loop to draw individual petals
 
-def flower(n_petals, petal_size, angle):
+def flower(n_petal, size_petal, angle):
     """"
     Drawn a flower with radial symmetry, based on github.com/dexhunter/TP_solutions/blob/master/ex04_02.py
 
@@ -25,14 +25,14 @@ def flower(n_petals, petal_size, angle):
         petal_size (float): radius of curvature
         angle (float): opening of the petal arch in degrees
     """
-    arc_l = petal_size * math.radians(angle)
+    arc_l = size_petal * math.radians(angle)
     n_steps = int(arc_l / 12) + 1  
     s_len = arc_l / n_steps
     s_ang = float(angle) / n_steps
-    rotation = 360.0 / n_petals
+    rotation = 360.0 / n_petal
     # the calculus is out of the loop
 
-    for _ in range(n_petals): # the underscore is used when you not need the value of the index
+    for _ in range(n_petal): # the underscore is used when you not need the value of the index
         for _ in range(2):
             arc(s_len, s_ang, n_steps)
             left(180 - angle)

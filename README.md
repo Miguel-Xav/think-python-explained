@@ -38,19 +38,39 @@ The use of `.py` files instead of `.ipynb` like the most repositories with the s
 ## Structure
 It will have a folder for each chapter, a `.py` file for each exercise and a `.png` file with a diagram explaining the logic, created in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
+Com certeza. Aqui está o conteúdo do seu README.md estruturado exatamente como você pediu, seguindo a organização das pastas e arquivos que aparecem no seu VS Code:
+Markdown
+
+# Think Python - Exercises & Solutions
+
+Este repositório documenta minha jornada pelo livro **Think Python (3rd Edition)** de Allen B. Downey. Aqui, foco em portar soluções de Python 2 para Python 3 e otimizar algoritmos para alta performance.
+
+---
+
+## 📚 Sumário de Exercícios
+
 * 📂 **[chapter-01](./chapter-01/)** - Programming as a way of thinking
     * 📄 [exercise_01_5.py](./chapter-01/exercise_01_5.py)
 * 📂 **[chapter-02](./chapter-02/)** - Variables and Statements
     * 📄 [exercise_02_2.py](./chapter-02/exercise_02_2.py)
 * 📂 **[chapter-03](./chapter-03/)** - Functions
     * 📄 [exercise_03_2.py](./chapter-03/exercise_03_2.py)
-        * 🎨 [sketch_03_2.png](./chapter-03/sketch_03_2.png)
+        * 🎨 [exercise_03_2-sketch.png](./chapter-03/exercise_03_2-sketch.png)
     * 📄 [exercise_03_3.py](./chapter-03/exercise_03_3.py)
-        * 🎨 [sketch_03_3.png](./chapter-03/sketch_03_3.png)
+        * 🎨 [exercise_03_3-sketch.png](./chapter-03/exercise_03_3-sketch.png)
     * 📄 [exercise_03_4.py](./chapter-03/exercise_03_4.py)
-        * 🎨 [sketch_03_4.png](./chapter-03/sketch_03_4.png)
+        * 🎨 [exercise_03_4-sketch.png](./chapter-03/exercise_03_4-sketch.png)
     * 📄 [exercise_03_5.py](./chapter-03/exercise_03_5.py)
-        * 🎨 [sketch_03_5.png](./chapter-03/sketch_03_5.png)
+        * 🎨 [exercise_03_5-sketch.png](./chapter-03/exercise_03_5-sketch.png)
+* 📂 **[chapter-04](./chapter-04/)** - Case Study: Interface Design
+    * 📄 [exercise_04_2.py](./chapter-04/exercise_04_2.py)
+        * 🎨 [exercise_04_2-sketch.png](./chapter-04/exercise_04_2-sketch.png)
+    * 📄 [exercise_04_3.py](./chapter-04/exercise_04_3.py)
+        * 🎨 [exercise_04_3-sketch.png](./chapter-04/exercise_04_3-sketch.png)
+    * 📄 [exercise_04_4.py](./chapter-04/exercise_04_4.py)
+        * 🎨 [exercise_04_4-sketch.png](./chapter-04/exercise_04_4-sketch.png)
+    * 📄 [exercise_04_5.py](./chapter-04/exercise_04_5.py)
+        * 🎨 [exercise_04_5-sketch.png](./chapter-04/exercise_04_5-sketch.png)
 
 * 📄 **[README.md](./README.md)**
 
