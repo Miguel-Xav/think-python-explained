@@ -38,13 +38,6 @@ The use of `.py` files instead of `.ipynb` like the most repositories with the s
 ## Structure
 It will have a folder for each chapter, a `.py` file for each exercise and a `.png` file with a diagram explaining the logic, created in [Excalidraw](https://github.com/excalidraw/excalidraw).
 
-Com certeza. Aqui está o conteúdo do seu README.md estruturado exatamente como você pediu, seguindo a organização das pastas e arquivos que aparecem no seu VS Code:
-Markdown
-
-# Think Python - Exercises & Solutions
-
-Este repositório documenta minha jornada pelo livro **Think Python (3rd Edition)** de Allen B. Downey. Aqui, foco em portar soluções de Python 2 para Python 3 e otimizar algoritmos para alta performance.
-
 ---
 
 ## 📚 Sumário de Exercícios
