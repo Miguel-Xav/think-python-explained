@@ -40,7 +40,7 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
 
 ---
 
-## 📚 Sumário de Exercícios
+## 📚 Summary of Exercises
 
 * 📂 **[chapter-01](./chapter-01/)** - Programming as a way of thinking
     * 📄 [exercise_01_5.py](./chapter-01/exercise_01_5.py)
