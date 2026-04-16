@@ -5,9 +5,7 @@ def bottle_verse(n):
         print ("Take one down, pass it around") 
         if n-1 == 0: #the if will check the value of n-1, if it is 0, it will print the last verse of the song
             print ("No more bottles of beer on the wall")
-            print ("You drink they last one, you go to the store and buy some more")
-        else: #the else will be executed if n-1 not attend the if condition
-            pass #the pass command do literally nothing, we need it here because we can't have an empty else statement
+            print ("You drink their last one, you go to the store and buy some more")
 
 
 bottle_verse(99) #caution, this will print the whole song with the 99 verses, if you are testing and not want a spam, change the value of the parameter to a smaller number

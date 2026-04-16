@@ -21,8 +21,8 @@ def flower(n_petal, size_petal, angle):
     Drawn a flower with radial symmetry, based on github.com/dexhunter/TP_solutions/blob/master/ex04_02.py
 
     Args:
-        n_petals (int): quantity of petals
-        petal_size (float): radius of curvature
+        n_petal (int): quantity of petals
+        size_petal (float): radius of curvature
         angle (float): opening of the petal arch in degrees
     """
     arc_l = size_petal * math.radians(angle)
@@ -40,5 +40,5 @@ def flower(n_petal, size_petal, angle):
     # loop calling the arc for each petal that is going to be drawn
 
 make_turtle(delay=0)
-flower(n_petals=50, petal_size=70, angle=80)
+flower(n_petal=50, size_petal=70, angle=80)
 # try change the values and play with the code!

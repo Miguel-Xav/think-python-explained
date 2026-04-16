@@ -8,10 +8,10 @@ def parallelogram(length, height, angle):
         left(180 - angle) # the angle between the sides is 180 - angle
 
 
-def perfect_rectangle(length):
+def perfect_rectangle_v1(length):
     height = length / 2 # the height is half of the length
     angle = 90 # the angle between the sides is 90 degrees, on the parallelogram function, the angle is 180 - 90 = 90 degrees, so it will be a rectangle
-    parallelogram(length, height, angle) #the function is called with the length, height and angle values of perfect_rectangle()
+    parallelogram(length, height, angle) #the function is called with the length, height and angle values of perfect_rectangle_v1()
 
 def perfect_rhombus(length):
     height = length

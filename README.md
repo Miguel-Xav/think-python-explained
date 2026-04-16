@@ -20,7 +20,7 @@ This project was developed and tested using **[Python 3.13.5](https://www.python
 ## How it works and who it's for
 On this repository you can see each exercise solved by me, with different methods, on the time i've read this book.
 
-I focused on explaining each line of code to help beginers, who are facing difficulties on the exercises, understand the programming logic of Python.
+I focused on explaining each line of code to help beginners, who are facing difficulties on the exercises, understand the programming logic of Python.
 
 The use of `.py` files instead of `.ipynb` like the most repositories with the solution, is to have an _easy visualization_ directly on GitHub _without the necessity of download anything_.
 
