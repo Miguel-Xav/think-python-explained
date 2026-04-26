@@ -11,7 +11,7 @@ make_turtle() # create the turtle to start drawing
 rectangle(length=80, height=40) # call the rectangle function with the length and height values, you can change the values to make different rectangles
 
 #bonus!!
-# I don't think this is a really bonus, but how i will use the perfect_rectangle on the future i include this here!
+# I don't think this is a real bonus, but since I will use perfect_rectangle in the future, I include it here!
 
 def perfect_rectangle(length): # this function will always make a perfect rectangle with the length and the height being half of the length
     height = length / 2 # this will make the height always half of the length

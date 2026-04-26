@@ -12,6 +12,6 @@ hours = (now // 3600) % 24 #same logic as above, but for hours
 The print(f) just allows you to display a variable's value, it will be cover later on the book
 """
 
-print(f"{days} since the Unix/Epoch")
+print(f"{days} days since the Unix Epoch")
 print(f"The time is: {hours}h, {minutes}min, {seconds}s")
 

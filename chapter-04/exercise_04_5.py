@@ -1,7 +1,7 @@
-""""
-I've take the solution from github.com/dexhunter/TP_solutions and translate to JupyTurtle and Python 3
+"""
+I've taken the solution from github.com/dexhunter/TP_solutions and translated it to JupyTurtle and Python 3
 Go and support the dexhunter solutions too, it's another way to see the same process!
-I will explain the diferences from the dexhunter code line por line
+I will explain the differences from the dexhunter code line by line
 """
 
 
@@ -17,8 +17,8 @@ def arc(s_len, s_ang, n_steps):
 # now the arc is a loop to draw individual petals
 
 def flower(n_petal, size_petal, angle):
-    """"
-    Drawn a flower with radial symmetry, based on github.com/dexhunter/TP_solutions/blob/master/ex04_02.py
+    """
+    Draws a flower with radial symmetry, based on github.com/dexhunter/TP_solutions/blob/master/ex04_02.py
 
     Args:
         n_petal (int): quantity of petals
@@ -30,7 +30,7 @@ def flower(n_petal, size_petal, angle):
     s_len = arc_l / n_steps
     s_ang = float(angle) / n_steps
     rotation = 360.0 / n_petal
-    # the calculus is out of the loop
+    # the calculations are out of the loop
 
     for _ in range(n_petal): # the underscore is used when you not need the value of the index
         for _ in range(2):

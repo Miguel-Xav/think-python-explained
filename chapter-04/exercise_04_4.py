@@ -19,8 +19,8 @@ def perfect_rhombus(length):
     parallelogram(length, height, angle)
 
 """
-if you want to make via input (rectangle(length=x, heigth=y, angle=z))
-just put parallelogram(length, heigth, angle)
+if you want to make via input (rectangle(length=x, height=y, angle=z))
+just put parallelogram(length, height, angle)
 """
 
 # To make the drawn equal to the book
@@ -60,15 +60,15 @@ def parallelogram2(length): # we will fuse the rectangle with the rhombus to mak
 
 make_turtle()
 
-# to start the drawn from the left
+# to start the drawing from the left
 left(180)
 jump(125)
 right(180)
-# to make the drawn aligned the values need to be this
+# to make the drawing aligned, the values need to be this
 perfect_rectangle(60)
 jump(80)
 rhombus(35)
 jump (70)
 parallelogram2(35)
 
-# i dint make an automatic function to calculate because some of the things needed to do this are further in the book
+# I didn't make an automatic function to calculate because some of the things needed to do this are further in the book

@@ -7,7 +7,7 @@ def rhombus(length, angle): # differently from the rectangle, the rhombus has an
         left(angle) # this will make the obtuse inclination
         forward(length)
         left(complementary_angle) # this will make the acute inclination and complete the rhombus
-# !REMEMBER THAT THE ANGLE IS NOT OF THE DRAWN, IT'S FOR THE TURTLE TO TURN!
+# !REMEMBER THAT THE ANGLE IS NOT OF THE DRAWING, IT'S FOR THE TURTLE TO TURN!
 
 make_turtle()
 rhombus(length=50, angle=60)

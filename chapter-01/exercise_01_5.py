@@ -11,8 +11,9 @@ print (round(10/mile))
 print ( round( ( (42*60)+42 ) / (10/mile) ) )  # with this count you will have the result pace/seconds in miles
 
 #Part 4
-minutes = int((42+ (42/60)) / (10/mile))
-seconds = (minutes * 6) 
+pace = (42 + (42/60)) / (10/mile)
+minutes = int(pace)
+seconds = round((pace - minutes) * 60)
 print (f"pace per mile: {minutes}min and {seconds}s")
 # focus only on the raw calculation, the print(f) will be addressed later, and I did it this way for better code organization
 
