@@ -64,6 +64,14 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
         * 🎨 [exercise_04_4-sketch.png](./chapter-04/exercise_04_4-sketch.png)
     * 📄 [exercise_04_5.py](./chapter-04/exercise_04_5.py)
         * 🎨 [exercise_04_5-sketch.png](./chapter-04/exercise_04_5-sketch.png)
+* 📂 **[chapter-05](./chapter-05/)** - Conditionals and Recursion
+    * 📄 [exercise_05_2.py](./chapter-05/exercise_05_2.py)
+    * 📄 [exercise_05_3.py](./chapter-05/exercise_05_3.py)
+    * 🎨 [exercise_05_4.png](./chapter-05/exercise_05_4.png)
+* 📂 **[chapter-06](./chapter-06/)** - Return Values
+    * 📄 [exercise_06_2.py](./chapter-06/exercise_06_2.py)
+
+
 
 * 📄 **[README.md](./README.md)**
 
