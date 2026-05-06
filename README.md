@@ -70,6 +70,9 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
     * 🎨 [exercise_05_4.png](./chapter-05/exercise_05_4.png)
 * 📂 **[chapter-06](./chapter-06/)** - Return Values
     * 📄 [exercise_06_2.py](./chapter-06/exercise_06_2.py)
+    * 📄 [exercise_06_3.py](./chapter-06/exercise_06_3.py)
+    * 📄 [exercise_06_4.py](./chapter-06/exercise_06_4.py)
+    * 📄 [exercise_06_5.py](./chapter-06/exercise_06_5.py)
 
 
 
