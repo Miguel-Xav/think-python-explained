@@ -12,8 +12,9 @@ def ackermann(m, n):
 
 
 print(ackermann(5, 5))
+
 """
 Run the function with the parameters 5 for m and n will cause a recursion error
-That error is Python protecting your processor from exploding (causa it cause a recursion running more than 1000 times)
-If you like the idea of the Ackermann's Function i recommend see a real professors explaining really because its a complex theme 
+That error is Python protecting your processor from exploding (cause it causes a recursion running more than 1000 times)
+If you like the idea of the Ackermann's Function i recommend see a real professors explaining because its a complex theme 
 """

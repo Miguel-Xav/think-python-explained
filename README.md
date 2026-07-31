@@ -1,7 +1,6 @@
 # think-python-explained
 ![Python Version](https://img.shields.io/badge/python-3.13.5-blue)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)
-![IDE](https://img.shields.io/badge/IDE-VS%20Code-68217A)
 
 A repository with .py files to show the solutions of Think Python 3rd Edition exercises with the explanation of each line, sketches and bonuses!
 
@@ -89,7 +88,7 @@ In this section, I analyze the design decisions of the Python language and how t
 * 🎨 [exercise_03_5-sketch.png](./chapter-03/exercise_03_5-sketch.png)
 
 **Frame per Frame Analysis of the Code Behavior**
-* 🎨 [exercise_05_4.png](./chapter-05/exercise_05_4.png)
+* 📄 [exercise_05_4.png](./chapter-05/exercise_05_4.png)
 
 **Remembering Fruitful Fucntions and Void Functions**
 * 📄 [exercise_06_2.py](./chapter-06/exercise_06_2.py)
