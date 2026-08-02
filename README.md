@@ -81,8 +81,8 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
 
 I'm not going to provide solutions for exercises focused on experimentation with the language!
 
-## Compiler Insights
-In this section, I analyze the design decisions of the Python language and how they impact execution on hardware (CPU and RAM).
+## Bonus and Extras!
+In this section, I highlighted some bonus, extras, explanations, tip, etc. I did during the course of the project and thought it was important to include them!
 
 **Tip for Optimization**
 * 🎨 [exercise_03_5-sketch.png](./chapter-03/exercise_03_5-sketch.png)
@@ -90,7 +90,7 @@ In this section, I analyze the design decisions of the Python language and how t
 **Frame per Frame Analysis of the Code Behavior**
 * 📄 [exercise_05_4.png](./chapter-05/exercise_05_4.png)
 
-**Remembering Fruitful Fucntions and Void Functions**
+**Remembering Fruitful Functions and Void Functions**
 * 📄 [exercise_06_2.py](./chapter-06/exercise_06_2.py)
 
 
