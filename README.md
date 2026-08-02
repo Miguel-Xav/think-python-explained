@@ -93,6 +93,8 @@ In this section, I highlighted some bonus, extras, explanations, tip, etc. I did
 **Remembering Fruitful Functions and Void Functions**
 * 📄 [exercise_06_2.py](./chapter-06/exercise_06_2.py)
 
+**Extra Challenge of the Chapter 7**
+* 📄 [z_bonus_challenge-07.py](./chapter-07/z_bonus_challenge-07.py)
 
 
 ## Special Thanks!
