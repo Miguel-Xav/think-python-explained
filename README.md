@@ -72,8 +72,14 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
     * 📄 [exercise_06_3.py](./chapter-06/exercise_06_3.py)
     * 📄 [exercise_06_4.py](./chapter-06/exercise_06_4.py)
     * 📄 [exercise_06_5.py](./chapter-06/exercise_06_5.py)
-
-
+* 📂 **[chapter-07](./chapter-07/)** - Iteration and Search
+    * 📄 [exercise_07_2.py](./chapter-07/exercise_07_2.py)
+    * 📄 [exercise_07_3.py](./chapter-07/exercise_07_3.py)
+    * 📄 [exercise_07_4.py](./chapter-07/exercise_07_4.py)
+    * 📄 [exercise_07_5.py](./chapter-07/exercise_07_5.py)
+    * 📄 [exercise_07_6.py](./chapter-07/exercise_07_6.py)
+    *  ❗ [z_bonus_challenge-07.py](./chapter-07/z_bonus_challenge-07.py)
+        * 📔 [z_english_dictionary.txt](./chapter-07/z_english_dictionary.txt)
 
 * 📄 **[README.md](./README.md)**
 
