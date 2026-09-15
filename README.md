@@ -110,6 +110,9 @@ In this section, I highlighted some bonus, extras, explanations, tip, etc. I did
 **Extra Challenge of the Chapter 7**
 * 📄 [z_bonus_challenge-07.py](./chapter-07/z_bonus_challenge-07.py)
 
+**Wordle Game in Python**
+* 📄 [exercise_08_3.py](./chapter-08/exercise_08_3/exercise_08_3.py)
+
 
 ## Special Thanks!
 **I thank Allen B. Downey, on behalf of myself and the entire community, for writing this incredible book for those starting their Python journey.**
