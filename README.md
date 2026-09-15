@@ -91,6 +91,12 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
     * 📂 [exercise_08_4](chapter-08/exercise_08_4)
       * 📄 [exercise_08_4.py](chapter-08/exercise_08_4/exercise_08_4.py)
       * 📔 [pg1184.txt](chapter-08/exercise_08_4/pg1184.txt)
+* 📂 **[chapter-09](./chapter-09/)** - Lists
+    * 📄 [exercise_09_2.py](./chapter-09/exercise_09_2.py)
+    * 📄 [exercise_09_3.py](./chapter-09/exercise_09_3.py)
+    * 📄 [exercise_09_4.py](./chapter-09/exercise_09_4.py)
+    * 📄 [exercise_09_5.py](./chapter-09/exercise_09_5.py)
+
       
 
 * 📄 **[README.md](./README.md)**
