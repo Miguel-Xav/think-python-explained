@@ -88,6 +88,10 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
     * 📂 [exercise_08_3](chapter-08/exercise_08_3)
         * 📄 [exercise_08_3.py](chapter-08/exercise_08_3/exercise_08_3.py)
         * 📔 [list_of_words.txt](chapter-08/exercise_08_3/list_of_words.txt)
+    * 📂 [exercise_08_4](chapter-08/exercise_08_4)
+      * 📄 [exercise_08_4.py](chapter-08/exercise_08_4/exercise_08_4.py)
+      * 📔 [pg1184.txt](chapter-08/exercise_08_4/pg1184.txt)
+      
 
 * 📄 **[README.md](./README.md)**
 
