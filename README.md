@@ -80,6 +80,14 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
     * 📄 [exercise_07_6.py](./chapter-07/exercise_07_6.py)
     *  ❗ [z_bonus_challenge-07.py](./chapter-07/z_bonus_challenge-07.py)
         * 📔 [z_english_dictionary.txt](./chapter-07/z_english_dictionary.txt)
+* 📂 **[chapter-08](./chapter-08/)** - Strings and Regular Expressions
+    * 📂 [exercise_08_2](chapter-08/exercise_08_2)
+        * 📄 [exercise_08_2.py](chapter-08/exercise_08_2/exercise_08_2.py)
+        * 📔 [pg345.txt](chapter-08/exercise_08_2/pg345.txt)
+        * 📔 [head_result.txt](chapter-08/exercise_08_2/head_result.txt)
+    * 📂 [exercise_08_3](chapter-08/exercise_08_3)
+        * 📄 [exercise_08_3.py](chapter-08/exercise_08_3/exercise_08_3.py)
+        * 📔 [list_of_words.txt](chapter-08/exercise_08_3/list_of_words.txt)
 
 * 📄 **[README.md](./README.md)**
 
