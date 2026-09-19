@@ -22,6 +22,8 @@ The use of `.py` files instead of `.ipynb` like the most repositories with the s
 
 **I'm not a professional and i did this project purely for fun, _to document my progress with the book_ and help people who are struggling. I'm open to discussing any criticism and exploring different ways to solve the exercises.**
 
+**Feel free to point any error in the issues tab!**
+
 ## How to Read and Run
 `If:` you're just to check out an exercise solution or see a sketch, feel free to only use the preview on github.
 
