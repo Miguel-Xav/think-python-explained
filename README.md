@@ -99,12 +99,17 @@ It will have a folder for each chapter, a `.py` file for each exercise and a `.p
   * 📄 [exercise_10_4.py](./chapter-10/exercise_10_4.py)
   * 📄 [exercise_10_5.py](./chapter-10/exercise_10_5.py)
   * 📄 [exercise_10_6.py](./chapter-10/exercise_10_6.py)
-* 📂 **[chapter-11](./chapter-10/)** - Tuples
+* 📂 **[chapter-11](./chapter-11/)** - Tuples
   * 📄 [exercise_11_2.py](./chapter-11/exercise_11_2.py)
   * 📄 [exercise_11_3.py](./chapter-11/exercise_11_3.py)
   * 📄 [exercise_11_4.py](./chapter-11/exercise_11_4.py)
   * 📄 [exercise_11_5.py](./chapter-11/exercise_11_5.py)
   * 📄 [exercise_11_6.py](./chapter-11/exercise_11_6.py)
+* 📂 **[chapter-12](./chapter-12/)** - Text Analysis and Generation
+  * 📄 [exercise_12_2.py](./chapter-12/exercise_12_2.py)
+
+  * 📔 [pg43.txt](chapter-12/pg43.txt)
+
 
 
 * 📄 **[README.md](./README.md)**
